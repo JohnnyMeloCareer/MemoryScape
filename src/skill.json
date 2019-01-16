@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "image": "./images/Construction.png",
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "image": "./images/Farming.png",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "image": "./images/Firemaking.png",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "image": "./images/Fishing.png",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "image": "./images/Fletching.png",
+        "clicked": false
+    },
+    {
+        "id": 6,
+        "image": "./images/Mining.png",
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "image": "./images/Agility.png",
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "image": "./images/Attack.png",
+        "clicked": false
+    },
+    {
+        "id": 9,
+        "image": "./images/HP.png",
+        "clicked": false
+    },
+    {
+        "id": 10,
+        "image": "./images/Prayer.png",
+        "clicked": false
+    },
+    {
+        "id": 11,
+        "image": "./images/Runecrafting.png",
+        "clicked": false
+    },
+    {
+        "id": 12,
+        "image": "./images/Slayer.png",
+        "clicked": false
+    }
+]

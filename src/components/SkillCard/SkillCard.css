@@ -1,0 +1,9 @@
+body {
+    background-image: url("https://www.desktopbackground.org/t/2015/12/28/1064660_download-runescape-wallpapers-pictures-photos-and-backgrounds_1280x1024_h.jpg");
+    }
+
+.imgContainer {
+border: 1px solid goldenrod;
+background-image: url("https://2img.net/h/i21.photobucket.com/albums/b287/N00l3/bg.jpg");
+background-size: 'cover'
+}
