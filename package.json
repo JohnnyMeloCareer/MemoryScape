@@ -1,5 +1,6 @@
 {
-  "name": "memoryscape",
+  "name": "Click Scape",
+  "homepage": "https://johnnymelocareer.github.io/React-Click-Scape/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
