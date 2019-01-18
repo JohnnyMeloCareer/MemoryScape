@@ -14,7 +14,7 @@ const Navbar = props => (
       <ul className="navbar-nav mr-auto">
         <li id="currentScore">
           <a className="nav-link" href="/">
-            MemoryScape
+            Click Scape
           </a>
         </li>
       </ul>

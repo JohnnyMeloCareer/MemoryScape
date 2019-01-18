@@ -1,0 +1,11 @@
+.wrapper {
+  background-image: url("https://2img.net/h/i21.photobucket.com/albums/b287/N00l3/bg.jpg");
+    padding-top: 50px;
+    height: 100%;
+    display: flex;
+    flex-flow: row wrap;
+    padding: 20px;
+    justify-content: space-around;
+    align-content: flex-start;
+    overflow: auto;
+  }

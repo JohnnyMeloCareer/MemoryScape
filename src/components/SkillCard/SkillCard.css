@@ -1,9 +1,57 @@
 body {
+    /*background-image: url("http://www.estarte.me/wp-content/uploads/old-school-world-map-new-or-accurate-inside-6.jpg");*/
     background-image: url("https://www.desktopbackground.org/t/2015/12/28/1064660_download-runescape-wallpapers-pictures-photos-and-backgrounds_1280x1024_h.jpg");
+    background-size: cover;
     }
 
 .imgContainer {
 border: 1px solid goldenrod;
-background-image: url("https://2img.net/h/i21.photobucket.com/albums/b287/N00l3/bg.jpg");
-background-size: 'cover'
+background-image: url("https://backgroundcheckall.com/wp-content/uploads/2018/10/runescape-website-background-1-300x200.jpg");
 }
+
+.display-4 {
+    font-family: 'Shrikhand', cursive;
+    color: saddlebrown;
+}
+
+.lead {
+    font-family: 'Shrikhand', cursive;
+    color: saddlebrown;
+}
+
+.card { 
+  border: 1px solid goldenrod;
+  /*background-color: rgba(0,0,0,0.5);*/
+   background-image: url("https://2img.net/h/i21.photobucket.com/albums/b287/N00l3/bg.jpg"); 
+    margin: .8rem;
+    position: relative;
+    text-align: left;
+    border-style: none;
+  }
+  
+  .card > .img-container {
+    overflow: hidden;
+    text-align: center;
+  }
+  .card > .img-container > img {
+    height: 100px; 
+    width: 100px; 
+  }
+  
+  .card > .content {
+    padding-left: 1rem;
+    padding-right: 1rem;
+    font-size: 15px;
+  }
+  
+  .card > .content > ul {
+    list-style-type: none;
+  }
+  
+  .card > .content > ul > li {
+    margin-top: 18px;
+  }
+  
+  .click-item{ 
+    border-radius: 25px;
+  }
